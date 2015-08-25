@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FAA874F8-F023-4DDE-843B-E86F0D5DE887</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Clock-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EA14F17E4D28B953182DB96549B6E8DE58118CC8</key>
+		<string>github.com:dhavaln/SwiftTutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Clock-iOS/Clock-iOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EA14F17E4D28B953182DB96549B6E8DE58118CC8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:dhavaln/SwiftTutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA14F17E4D28B953182DB96549B6E8DE58118CC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA14F17E4D28B953182DB96549B6E8DE58118CC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftTutorials</string>
+		</dict>
+	</array>
+</dict>
+</plist>
